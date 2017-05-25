@@ -1,0 +1,2 @@
+agitr
+-DCATKIN_DEVEL_PREFIX=/home/zjh/zBox/sync/projects/stuROS/devel -DCMAKE_INSTALL_PREFIX=/home/zjh/zBox/sync/projects/stuROS/install -G Unix Makefiles
