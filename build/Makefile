@@ -39,10 +39,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/zjh/zBox/sync/projects/stuROS/src
+CMAKE_SOURCE_DIR = /home/caros/zjh/projects/github/stuROS/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/zjh/zBox/sync/projects/stuROS/build
+CMAKE_BINARY_DIR = /home/caros/zjh/projects/github/stuROS/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -120,9 +120,9 @@ test/fast: test
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zjh/zBox/sync/projects/stuROS/build/CMakeFiles /home/zjh/zBox/sync/projects/stuROS/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/caros/zjh/projects/github/stuROS/build/CMakeFiles /home/caros/zjh/projects/github/stuROS/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zjh/zBox/sync/projects/stuROS/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/caros/zjh/projects/github/stuROS/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

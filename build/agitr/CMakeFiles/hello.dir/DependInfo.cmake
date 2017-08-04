@@ -4,7 +4,7 @@ SET(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 SET(CMAKE_DEPENDS_CHECK_CXX
-  "/home/zjh/zBox/sync/projects/stuROS/src/agitr/hello.cpp" "/home/zjh/zBox/sync/projects/stuROS/build/agitr/CMakeFiles/hello.dir/hello.cpp.o"
+  "/home/caros/zjh/projects/github/stuROS/src/agitr/hello.cpp" "/home/caros/zjh/projects/github/stuROS/build/agitr/CMakeFiles/hello.dir/hello.cpp.o"
   )
 SET(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -21,7 +21,7 @@ SET(CMAKE_TARGET_LINKED_INFO_FILES
 
 # The include file search paths:
 SET(CMAKE_C_TARGET_INCLUDE_PATH
-  "/home/zjh/zBox/sync/projects/stuROS/src/agitr/include"
+  "/home/caros/zjh/projects/github/stuROS/src/agitr/include"
   "/opt/ros/indigo/include"
   )
 SET(CMAKE_CXX_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})

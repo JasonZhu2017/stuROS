@@ -1,6 +1,6 @@
 # CMake generated Testfile for 
-# Source directory: /home/zjh/zBox/sync/projects/stuROS/src
-# Build directory: /home/zjh/zBox/sync/projects/stuROS/build
+# Source directory: /home/caros/zjh/projects/github/stuROS/src
+# Build directory: /home/caros/zjh/projects/github/stuROS/build
 # 
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.

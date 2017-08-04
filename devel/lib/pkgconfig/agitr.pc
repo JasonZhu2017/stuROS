@@ -1,8 +1,8 @@
-prefix=/home/zjh/zBox/sync/projects/stuROS/devel
+prefix=/home/caros/zjh/projects/github/stuROS/devel
 
 Name: agitr
 Description: Description of agitr
 Version: 0.0.0
 Cflags: 
-Libs: -L/home/zjh/zBox/sync/projects/stuROS/devel/lib 
+Libs: -L/home/caros/zjh/projects/github/stuROS/devel/lib 
 Requires: 

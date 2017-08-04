@@ -1,2 +1,2 @@
 agitr
--DCATKIN_DEVEL_PREFIX=/home/zjh/zBox/sync/projects/stuROS/devel -DCMAKE_INSTALL_PREFIX=/home/zjh/zBox/sync/projects/stuROS/install -G Unix Makefiles
+-DCATKIN_DEVEL_PREFIX=/home/caros/zjh/projects/github/stuROS/devel -DCMAKE_INSTALL_PREFIX=/home/caros/zjh/projects/github/stuROS/install -G Unix Makefiles

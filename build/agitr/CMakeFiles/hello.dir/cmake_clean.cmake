@@ -1,7 +1,7 @@
 FILE(REMOVE_RECURSE
   "CMakeFiles/hello.dir/hello.cpp.o"
-  "/home/zjh/zBox/sync/projects/stuROS/devel/lib/agitr/hello.pdb"
-  "/home/zjh/zBox/sync/projects/stuROS/devel/lib/agitr/hello"
+  "/home/caros/zjh/projects/github/stuROS/devel/lib/agitr/hello.pdb"
+  "/home/caros/zjh/projects/github/stuROS/devel/lib/agitr/hello"
 )
 
 # Per-language clean rules from dependency scanning.

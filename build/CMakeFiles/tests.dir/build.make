@@ -35,10 +35,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/zjh/zBox/sync/projects/stuROS/src
+CMAKE_SOURCE_DIR = /home/caros/zjh/projects/github/stuROS/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/zjh/zBox/sync/projects/stuROS/build
+CMAKE_BINARY_DIR = /home/caros/zjh/projects/github/stuROS/build
 
 # Utility rule file for tests.
 
@@ -60,6 +60,6 @@ CMakeFiles/tests.dir/clean:
 .PHONY : CMakeFiles/tests.dir/clean
 
 CMakeFiles/tests.dir/depend:
-	cd /home/zjh/zBox/sync/projects/stuROS/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/zjh/zBox/sync/projects/stuROS/src /home/zjh/zBox/sync/projects/stuROS/src /home/zjh/zBox/sync/projects/stuROS/build /home/zjh/zBox/sync/projects/stuROS/build /home/zjh/zBox/sync/projects/stuROS/build/CMakeFiles/tests.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/caros/zjh/projects/github/stuROS/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/caros/zjh/projects/github/stuROS/src /home/caros/zjh/projects/github/stuROS/src /home/caros/zjh/projects/github/stuROS/build /home/caros/zjh/projects/github/stuROS/build /home/caros/zjh/projects/github/stuROS/build/CMakeFiles/tests.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/tests.dir/depend
 

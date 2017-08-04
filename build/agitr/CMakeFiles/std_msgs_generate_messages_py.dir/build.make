@@ -35,10 +35,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/zjh/zBox/sync/projects/stuROS/src
+CMAKE_SOURCE_DIR = /home/caros/zjh/projects/github/stuROS/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/zjh/zBox/sync/projects/stuROS/build
+CMAKE_BINARY_DIR = /home/caros/zjh/projects/github/stuROS/build
 
 # Utility rule file for std_msgs_generate_messages_py.
 
@@ -56,10 +56,10 @@ agitr/CMakeFiles/std_msgs_generate_messages_py.dir/build: std_msgs_generate_mess
 .PHONY : agitr/CMakeFiles/std_msgs_generate_messages_py.dir/build
 
 agitr/CMakeFiles/std_msgs_generate_messages_py.dir/clean:
-	cd /home/zjh/zBox/sync/projects/stuROS/build/agitr && $(CMAKE_COMMAND) -P CMakeFiles/std_msgs_generate_messages_py.dir/cmake_clean.cmake
+	cd /home/caros/zjh/projects/github/stuROS/build/agitr && $(CMAKE_COMMAND) -P CMakeFiles/std_msgs_generate_messages_py.dir/cmake_clean.cmake
 .PHONY : agitr/CMakeFiles/std_msgs_generate_messages_py.dir/clean
 
 agitr/CMakeFiles/std_msgs_generate_messages_py.dir/depend:
-	cd /home/zjh/zBox/sync/projects/stuROS/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/zjh/zBox/sync/projects/stuROS/src /home/zjh/zBox/sync/projects/stuROS/src/agitr /home/zjh/zBox/sync/projects/stuROS/build /home/zjh/zBox/sync/projects/stuROS/build/agitr /home/zjh/zBox/sync/projects/stuROS/build/agitr/CMakeFiles/std_msgs_generate_messages_py.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/caros/zjh/projects/github/stuROS/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/caros/zjh/projects/github/stuROS/src /home/caros/zjh/projects/github/stuROS/src/agitr /home/caros/zjh/projects/github/stuROS/build /home/caros/zjh/projects/github/stuROS/build/agitr /home/caros/zjh/projects/github/stuROS/build/agitr/CMakeFiles/std_msgs_generate_messages_py.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : agitr/CMakeFiles/std_msgs_generate_messages_py.dir/depend
 

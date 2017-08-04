@@ -35,10 +35,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/zjh/zBox/sync/projects/stuROS/src
+CMAKE_SOURCE_DIR = /home/caros/zjh/projects/github/stuROS/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/zjh/zBox/sync/projects/stuROS/build
+CMAKE_BINARY_DIR = /home/caros/zjh/projects/github/stuROS/build
 
 # Utility rule file for rosgraph_msgs_generate_messages_lisp.
 
@@ -56,10 +56,10 @@ agitr/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build: rosgraph_msgs_g
 .PHONY : agitr/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build
 
 agitr/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/clean:
-	cd /home/zjh/zBox/sync/projects/stuROS/build/agitr && $(CMAKE_COMMAND) -P CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/cmake_clean.cmake
+	cd /home/caros/zjh/projects/github/stuROS/build/agitr && $(CMAKE_COMMAND) -P CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/cmake_clean.cmake
 .PHONY : agitr/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/clean
 
 agitr/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/depend:
-	cd /home/zjh/zBox/sync/projects/stuROS/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/zjh/zBox/sync/projects/stuROS/src /home/zjh/zBox/sync/projects/stuROS/src/agitr /home/zjh/zBox/sync/projects/stuROS/build /home/zjh/zBox/sync/projects/stuROS/build/agitr /home/zjh/zBox/sync/projects/stuROS/build/agitr/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/caros/zjh/projects/github/stuROS/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/caros/zjh/projects/github/stuROS/src /home/caros/zjh/projects/github/stuROS/src/agitr /home/caros/zjh/projects/github/stuROS/build /home/caros/zjh/projects/github/stuROS/build/agitr /home/caros/zjh/projects/github/stuROS/build/agitr/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : agitr/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/depend
 
